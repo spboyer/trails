@@ -26,5 +26,8 @@ using Visual Studio Code.
     * http://angularjs.org
 * Angular Extensions for Visual Studio Code
     * https://marketplace.visualstudio.com/items/johnpapa.Angular1
+* Environment start options
+    * https://github.com/aspnet/Announcements/issues/108
+    
 
 
