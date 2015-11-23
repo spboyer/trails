@@ -32,3 +32,9 @@ textarea {
         z-index: 10 !important;
     }
 }
+
+.jumbotron {
+    background-image: url("../images/jumbotron_bg.jpg");
+    background-size: cover;
+    color: #fff;
+}
