@@ -5,6 +5,7 @@ Plurasight Play by Play with Shayne Boyer and John Papa building an ASP.NET 5 We
 using Visual Studio Code.
 
 ![Shayne and John](https://pbs.twimg.com/media/CaXYM8gUMAA6ua1.jpg)
+
 In this course, Shayne Boyer shows how to build a web app with ASP.NET Core 1.0 from scratch, in real time. Since ASP.NET Core works cross-platform, Shayne develops and runs the app entirely on OSX. Shayne ups the ante by creating an Angular client that will communicate with an ASP.NET Web API. Learn from Shayne's expertise as he writes code that serves static assets, makes HTTP requests, and handles modern JavaScript client needs such as routing.
 
 #ASP.NET 5 Play by Play
