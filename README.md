@@ -22,7 +22,7 @@ In this course, Shayne Boyer shows how to build a web app with ASP.NET Core 1.0 
     * `npm install -g yo generator-aspnet`
     * http://github.com/omnisharp/generator-aspnet
 * Visual Studio Code
-    * http://code.visualstudio.com
+    * https://code.visualstudio.com/?WT.mc_id=dotnet-0000-shboyer
 * OmniSharp
     * http://omnisharp.net
 * ASP.NET Web API
@@ -31,7 +31,7 @@ In this course, Shayne Boyer shows how to build a web app with ASP.NET Core 1.0 
 * Angular 1.x
     * http://angularjs.org
 * Angular Extensions for Visual Studio Code
-    * https://marketplace.visualstudio.com/items/johnpapa.Angular1
+    * https://marketplace.visualstudio.com/items/johnpapa.Angular1?WT.mc_id=dotnet-0000-shboyer
 * Environment start options
     * https://github.com/aspnet/Announcements/issues/108
     
